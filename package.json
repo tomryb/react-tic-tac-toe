@@ -1,6 +1,4 @@
 {
-  "name": "tic-tac-toe",
-  "homepage": "https://basir.github.io/react-tic-tac-toe/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
